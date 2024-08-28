@@ -5,3 +5,9 @@ I am a Cloud DevOps Engineer. I specialize in IT infrastructure management, craf
 ![kubenetes](./looking-for-kubernetes.webp)
 
 [**CKA: Certified Kubernetes Administrator**](https://www.credly.com/badges/73b7b72b-7d34-44ec-beb2-745267c39b7d/)
+
+## My Profiles ⤵️
+
+## Skilled in 🥷
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
