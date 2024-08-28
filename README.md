@@ -4,4 +4,4 @@ I am a Cloud DevOps Engineer. I specialize in IT infrastructure management, craf
 
 ![kubenetes](./looking-for-kubernetes.webp)
 
-### Kubernetes is one of my favorite techonologies 🙃👆
+[**CKA: Certified Kubernetes Administrator**](https://www.credly.com/badges/73b7b72b-7d34-44ec-beb2-745267c39b7d/)
