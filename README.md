@@ -16,6 +16,7 @@ I am a **Cloud DevOps Engineer**. I specialize in IT infrastructure management, 
 
 - [**SensiHidePDF**](https://github.com/aditya-shrivastavv/sensihide-pdf)
 - [**Microservices Application**](https://github.com/aditya-shrivastavv/microservices-mp3-converter)
+- [**Django CRM**](https://gitlab.com/aditya-shrivastavv/django-crm)
 - [**RapidChat**](https://github.com/aditya-shrivastavv/RapidChat)
 
 **_Scripts_** 📃
