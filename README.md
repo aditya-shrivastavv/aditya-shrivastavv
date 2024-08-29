@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shrivastav1/)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/b2202b502dcde69f8c78c4b2787447bc)
+[![Static Badge](https://img.shields.io/badge/Docker_Hub-white?style=for-the-badge&logo=docker)](https://hub.docker.com/u/adityadocs)
+[![Static Badge](https://img.shields.io/badge/Linux_Foundation-gray?style=for-the-badge&logo=linux)](https://openprofile.dev/profile/adityashrivastav)
 
 I am a **Cloud DevOps Engineer**. I specialize in IT infrastructure management, crafting scalable architectures, enhancing security, integrating DevOps practices, streamlining development processes, and reducing cloud costs.
 
@@ -22,7 +24,7 @@ I am a **Cloud DevOps Engineer**. I specialize in IT infrastructure management, 
 - [**erp juno helper**](https://github.com/aditya-shrivastavv/erp-juno-helper)
 - [**formatRD**](https://github.com/aditya-shrivastavv/formatRD)
 
-## Expert at 🥷 ⏬
+## Expert at 🫡 ⏬
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -36,17 +38,9 @@ I am a **Cloud DevOps Engineer**. I specialize in IT infrastructure management, 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**_Programming Languages_**:
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**_Databases_**:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+[![An image of @adityashrivastavv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashrivastavv)](https://holopin.io/@adityashrivastavv)
