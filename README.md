@@ -1,6 +1,7 @@
 # Hey, I'm Aditya! 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shrivastav1/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CaptainAdityaa)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/b2202b502dcde69f8c78c4b2787447bc)
 [![Static Badge](https://img.shields.io/badge/Docker_Hub-white?style=for-the-badge&logo=docker)](https://hub.docker.com/u/adityadocs)
 [![Static Badge](https://img.shields.io/badge/Linux_Foundation-gray?style=for-the-badge&logo=linux)](https://openprofile.dev/profile/adityashrivastav)
